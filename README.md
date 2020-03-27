@@ -13,3 +13,7 @@ For now, I am focused on comparing US with other countries and US states with on
 ![Do you see me now?](./images/tests_by_date_USA.png)
 
 ![Do you see me now?](./images/test_ratios_by_date_USA.png)
+
+## Cumulative Test Totals by Date : WA (normalized)
+
+![Do you see me now?](./images/tpd_history_WA.png)
