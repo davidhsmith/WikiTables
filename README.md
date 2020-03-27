@@ -1,6 +1,8 @@
 # COVID-19 Data Analysis
 
-Providing COVID-19 data in a forat I am particularly interested.
+Providing COVID-19 data of a type in a format I am particularly interested.  The idea is to keep updating from on-line data sources day-by-day.
+
+For now, I am focused on comparing US with other countries and US states with one-another.  For this purpose, I will work to normalize the data on a per-capita basis.
 
 ## Tests vs. State
 
