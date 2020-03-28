@@ -24,4 +24,26 @@ I plotted the data for Washington State normalized to tests per capita per day. 
  
 But anyway, South Korea is sometimes put forwad as having done an exemplery job at testing.  I just wanted to see how the US compared.  The CNN article stated that South Korea had conducted 20,000 tests per day at their peak, so I plotted that level on the chart.  Not having the full South Korean data in-hand, I just added what I could easily locate and put it on the chart for comparison purposes.  
 
-Sometime soon, I'll locate the full historical data for South Korea and can make a more useful plot.  But this is interesting as a reference point.  It appears that at least for the state of Washington the per-capita test rates are comparable to those being performed in Washington State.
+Sometime soon, I'll locate the full historical data for South Korea and can make a more useful plot.  But this is interesting as a reference point.  It appears that at least for the state of Washington the per-capita test rates are comparable to those being performed in Washington State over the last week.
+
+Here's a similar referenced plot for the entire USA.
+
+![](./images/tpd_USA_South_Korea_ref.png)
+
+And here's the same plot for Some of the other states.
+
+![](./images/tpd_history_WA_SKref.png)
+
+![](./images/tpd_history_OR_SKref.png)
+
+![](./images/tpd_history_NM_SKref.png)
+
+![](./images/tpd_history_NY_SKref.png)
+
+![](./images/tpd_history_LA_SKref.png)
+
+![](./images/tpd_history_IL_SKref.png)
+
+From these plots it would appear that in the last week, the US has moved into the same league as South Korea in it's ability to do testing. 
+
+---
